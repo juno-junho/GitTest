@@ -102,7 +102,7 @@ __이렇게 해도 bold체__
 ==highlight==   
 기능도 사용할 수 있다 (ghost에서만)
 # 8. 이미지
-![image description](/GitTest/githubpic.png "picture title")
+![image description ](./githubpic.png "picture title")
 사진 조절 기능은 
 
     <img width="" height=""></img>
